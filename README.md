@@ -1,1 +1,1 @@
-This repository contains matlab processing code and model coefficients for estimating POC based on optical backscattering and chlorophyll-a measurements described in Koestner et al. (2023) Front. Mar. Sci. 10:1197953. doi: 10.3389/fmars.2023.1197953. Updates will be ongoing. 
+This repository contains matlab processing code and model coefficients for estimating POC based on optical backscattering and chlorophyll-a measurements described in Koestner et al. (2024) Front. Mar. Sci. 10:1197953. doi: 10.3389/fmars.2023.1197953. Updates will be ongoing. 
